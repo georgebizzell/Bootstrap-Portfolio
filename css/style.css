@@ -6,6 +6,10 @@ h1, h2, h3 , h4, h5, h6 {
     font-family: 'Jura', sans-serif;
   }
   
+  h2 {
+    color: rgb(25, 25, 31);
+  }
+
   /* Navigation bar */
   
   /* General */
@@ -94,7 +98,32 @@ h1, h2, h3 , h4, h5, h6 {
   .jumbotron img{
   filter: brightness(20%) !important;
   }
+
+/* Card styling */
+
+  .cardContainer {
+    margin-bottom: 15px;
+  }
+  .card {
+    margin: 0 auto;
+  }
   
+/* List styling */
+
+i {
+  display: inline-block;
+  width: 30px;
+}
+
+li {
+  margin: 10px;
+}
+
+li a:hover {
+  background-color: darkblue;
+  font:white !important;
+}
+
 /* Jumbotron copy */
 .jumboCopy {
   width: 70%;
