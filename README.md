@@ -1,7 +1,21 @@
 # Bootstrap-Portfolio
 First portfolio site using bootstrap framework
 
-## Instructions for Bootstrap Profile
+## Profile site user instructions
+
+Bootstrap based profile site is deployed with Github pages here:
+
+https://georgebizzell.github.io/Bootstrap-Portfolio/
+
+GitHub repo here:
+
+https://github.com/georgebizzell/Bootstrap-Portfolio
+
+## Developer instructions
+
+No contributions from external developers please.
+
+## Original instructions for Bootstrap Profile Submission
 
 ### A navigation bar
 
